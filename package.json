@@ -1,0 +1,17 @@
+{
+  "name": "npasmartcontract-master",
+  "version": "1.0.0",
+  "description": "The Structure contains all the elememts present in the csv file and each entry is associated with an \"id\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "read-excel-file": "^4.0.6",
+    "solc": "^0.6.4",
+    "web3": "^1.2.9"
+  }
+}
